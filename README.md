@@ -1,5 +1,7 @@
 ### Hi, I'm Olivia n_n 👋
 ---
+
+<p> You can find me on any of these options: </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/olivia-fierro-villaneda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
