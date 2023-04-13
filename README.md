@@ -17,5 +17,6 @@
 
 ### Feel free to reach out
 <p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaFV&shades-of-purple">
 <img src="https://github-readme-stats.vercel.app/api?username=OliviaFV&theme=shades-of-purple">
 </p>
